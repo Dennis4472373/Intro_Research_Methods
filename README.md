@@ -42,9 +42,9 @@ To collect the data like we did, you need to do the following:
 
 6. Put your output files in a new directory (This will help when you are transferring these files back to your computer):
       
-      mkdir new_directory
-      mv output1.txt new_directory
-      mv output2.txt new_directory
+        mkdir new_directory
+        mv output1.txt new_directory
+        mv output2.txt new_directory
       
     - You need to change the names of the directory and the output files to your own choice.
 
