@@ -1,6 +1,9 @@
 
 # The data from 2013:
 
+# These functions collect the data from March 2013. To change the dates, change the "2013/03/*.out.gz"
+# into another dates, for example /2014/07/*.out.gz for July 2014.
+
 
 # The total tweets from March 2013
 
@@ -12,6 +15,9 @@ function q1 {
 
 
 # The total tweets from March 2013 about Artificial Intelligence
+
+# To change the search words, change ""Kunstmatige Intelligentie\|Artificial Intelligence""
+# into the keywords that you want to use.
 
 function q2 {
 	
