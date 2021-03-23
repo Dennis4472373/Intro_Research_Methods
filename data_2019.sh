@@ -1,7 +1,7 @@
 
 # The data from 2019:
 
-# These functions collect the data from March 2013. To change the dates, change the "2019/03/*.out.gz"
+# These functions collect the data from March 2019. To change the dates, change the "2019/03/*.out.gz"
 # into another dates, for example /2014/07/*.out.gz for July 2014.
 
 # The total tweets from March 2019
